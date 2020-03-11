@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://paingaxaes.spotpluto.co/sitemap.xml
